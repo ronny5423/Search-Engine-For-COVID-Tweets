@@ -1,3 +1,5 @@
 # Search_Engine
-The is a skeleton of a search engine project for your convenience.
-Please follow the instructions provided in the file: intructions.txt
+If you're runnug the program for the first time, please run setup.py.
+Else, run main.py.
+
+The result you're going to get is a query regarding COVID and the most fit tweets about the query that are in the data parquet file.
